@@ -1,0 +1,25 @@
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "nl.ooxo.clients.app"
+        version = "0.0.3">
+    <name>BeT 3 CSSBreda</name>
+
+    <description>
+        CSSBreda sample application that responds to the deviceready event.
+    </description>
+    
+    <author href="http://ooxo.nl" email="gabor@ooxo.nl">
+        OOXO-CyberPunX Dubbel Tag Team
+    </author>
+    
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="WebViewBounce" value="true" />
+    <preference name="Orientation" value="portrait" />
+
+    <icon src="icon-2.png" />
+    
+    <gap:plugin name="org.apache.cordova.inappbrowser" />
+    
+</widget>
