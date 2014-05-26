@@ -2,7 +2,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "nl.ooxo.clients.app"
         version = "0.0.3">
-    <name>BeT 3 CSSBreda</name>
+    <name>Leergame CSSBreda</name>
 
     <description>
         CSSBreda sample application that responds to the deviceready event.
