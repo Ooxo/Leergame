@@ -1,7 +1,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "nl.cssbreda.leergame.app"
-        version = "0.2.0">
+        version = "0.2.2">
     <name>Beeldend Trainen Leergame</name>
 
     <description>
@@ -17,6 +17,7 @@
     <preference name="Fullscreen" value="true" />
     <preference name="WebViewBounce" value="true" />
     <preference name="Orientation" value="portrait" />
+    <preference name="permissions" value="none"/>
 
     <icon src="icon.png" />
     
